@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh78anand&label=Profile%20views&color=0e75b6&style=flat" alt="harsh78anand" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh78anand" alt="harsh78anand" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain**
 
