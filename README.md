@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Anand</h1>
-<h3 align="center">A passionate and hard working engineer/developer/data scientist from India</h3>
+<h3 align="center">A passionate and hard working engineer/developer/data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh78anand&label=Profile%20views&color=0e75b6&style=flat" alt="harsh78anand" /> </p>
 
