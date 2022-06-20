@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh78anand&label=Profile%20views&color=0e75b6&style=flat" alt="harsh78anand" /> </p>
 
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Machine Learning, Deep Learning**
+- 💬 Ask me about **Software Development, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **hanand782@gmail.com**
 
